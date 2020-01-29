@@ -1,5 +1,5 @@
 # js-coding-challenge-1
-Moscord Javascript Coding Challenge 1
+Javascript Coding Challenge 1
 
 ```javascript
 const people = [
