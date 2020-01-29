@@ -1,6 +1,12 @@
 # js-coding-challenge-1
 Javascript Coding Challenge 1
 
+## Requirements
+Given an array “people”, write: 
+1. A function “listByGender” that accepts “gender” and retruns an array of people that falls under the given gender; and 
+2. A function “groupByDepartment” that returns people grouped by their department. 
+
+
 ```javascript
 const people = [
         {
